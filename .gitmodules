@@ -1,3 +1,6 @@
 [submodule "role-based-access-control"]
 	path = role-based-access-control
 	url = https://github.com/jay-ok/role-based-access-control.git
+[submodule "basic-parking-lot"]
+	path = basic-parking-lot
+	url = https://github.com/jay-ok/basic-parking-lot
